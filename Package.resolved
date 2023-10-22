@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Appracatappra/LogManager",
       "state" : {
-        "revision" : "5dc038a098c8646e19f87424907e08b74809d06c",
-        "version" : "1.0.1"
+        "revision" : "aa1c1a9d15ea104a590df766af3f81da5afabab7",
+        "version" : "1.0.2"
       }
     }
   ],
