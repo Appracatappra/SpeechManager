@@ -4,6 +4,29 @@
 
 `SpeechManager` is a simple utility for adding text-to-speech to your app quickly and easily.
 
+## Support
+
+If you find `SpeechManager` useful and would like to help support its continued development and maintenance, please consider making a small donation, especially if you are using it in a commercial product:
+
+<a href="https://www.buymeacoffee.com/KevinAtAppra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+It's through the support of contributors like yourself, I can continue to build, release and maintain high-quality, well documented Swift Packages like `SpeechManager` for free.
+
+<a name="Installation"></a>
+## Installation
+
+**Swift Package Manager** (Xcode 11 and above)
+
+1. In Xcode, select the **File** > **Add Package Dependency…** menu item.
+2. Paste `https://github.com/Appracatappra/SpeechManager.git` in the dialog box.
+3. Follow the Xcode's instruction to complete the installation.
+
+> Why not CocoaPods, or Carthage, or blank?
+
+Supporting multiple dependency managers makes maintaining a library exponentially more complicated and time consuming.
+
+Since, the **Swift Package Manager** is integrated with Xcode 11 (and greater), it's the easiest choice to support going further.
+
 ## Overview
 
 `SpeechManager` provides a simply way to have your App read text out loud.
