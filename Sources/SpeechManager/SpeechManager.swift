@@ -14,7 +14,7 @@ open class SpeechManager {
     
     // MARK: - Static Functions
     /// A common shared instance of the `SpeechManager`.
-    static public var shared:SpeechManager = SpeechManager()
+    static public nonisolated(unsafe) let shared:SpeechManager = SpeechManager()
     
     // MARK: - Enumerations
     /// An`enum` containing a list of languages that `SpeechManager` can talk in.
