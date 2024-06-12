@@ -1,14 +1,15 @@
 {
+  "originHash" : "60bc6c6ff234920685e79c31aaf8f0129589ea05efbb6739e9e31c7aceb2055c",
   "pins" : [
     {
       "identity" : "logmanager",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Appracatappra/LogManager",
       "state" : {
-        "revision" : "aa1c1a9d15ea104a590df766af3f81da5afabab7",
-        "version" : "1.0.2"
+        "revision" : "bf916fa61fd3d3f006bcede8e9ca2d4910279478",
+        "version" : "2.0.0"
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
